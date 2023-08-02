@@ -12,6 +12,6 @@ The main reason is that basically this software is implemented on the platform o
 
 BlueSky software is a worthy alternative to SPSS, with this software you can use the power of R programming and in a very eye-catching way, the powerful menus of the software will keep us away from coding to a great extent, and also with timely updates from We will use the latest software methods in data analysis.
 
-It should also be added, to participate in this project, it is enough to send an
-
-> [Contact With Me](mailto:habib.stats9@gmail.com)
+> It should also be added, to participate in this project, it is enough to send an email to
+>
+> > [habib.stats9@gmail.com](mailto:habib.stats9@gmail.com)
