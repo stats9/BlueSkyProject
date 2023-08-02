@@ -4,7 +4,7 @@
 </h1>
 
 <h2>
-<p>
+<p style="color:red;">
 من در این پروژه قصد دارم که درباره‌ی نرم‌افزار <bdi> BlueSky Statistics </bdi>
 صحبت کنم.
 
