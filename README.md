@@ -13,6 +13,8 @@
 
 </div>
 
+<h1>
+
 ```diff
 - text in red
 + text in green
@@ -20,3 +22,4 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+</h1>
