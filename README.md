@@ -3,7 +3,7 @@
 </h1>
 
 <p dir = "rtl">
-<span style = "color:blue; font-family:Yas;">
+<span style = "color:blue;">
 من در این پروژه قصد دارم که درباره‌ی نرم‌افزار <bdi> BlueSky Statistics </bdi>
 صحبت کنم. 
 </span>
