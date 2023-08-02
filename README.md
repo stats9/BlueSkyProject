@@ -15,3 +15,7 @@ BlueSky software is a worthy alternative to SPSS, with this software you can use
 > It should also be added, to participate in this project, it is enough to send an email to
 >
 > > [habib.stats9@gmail.com](mailto:habib.stats9@gmail.com)
+
+# Statistical concepts
+
+$p_value$
