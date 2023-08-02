@@ -1,4 +1,4 @@
-<div dir = "rtl">
+<div dir = "rtl" style = "font-family:Yas;">
 <h1>
 پروژه توسعه کاربران <bdi> BlueSky Statistics SoftWare </bdi>
 </h1>
@@ -13,13 +13,4 @@
 
 </div>
 
-<h1>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-</h1>
