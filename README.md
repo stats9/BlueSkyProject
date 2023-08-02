@@ -11,11 +11,11 @@
 </p>
 </h2>
 
-<blockquote>
+<blockquote style = "text-align:right;">
 من می‌خوام تو این قسمت راجع‌به بعضی موارد حرف بزنم. 
 از این‌که همواره تلاش کردم که بتوانم در خدمت شما باشم. خیلی ممنونم
 به همین دلیل تلاش دارم تا بتوانم این روند رو ادامه بدم. 
-<blockquote>
+<blockquote style = "text-align:right;">
 خب حالا باید چکار کرد. 
 </blockquote>
 </blockquote>
