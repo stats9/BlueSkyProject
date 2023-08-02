@@ -18,4 +18,4 @@ BlueSky software is a worthy alternative to SPSS, with this software you can use
 
 # Statistical concepts
 
-$p_value$
+$$p_{value}$$
