@@ -1,5 +1,9 @@
 # Project for extended BlueSkyStatistcs
 
+![](/images/BlueSky_image_1.png)
+![](images/BlueSky_Image_2.jpg)
+![](images/BLueSky_image_3.jpg)
+
 My goal is to expand the community of users of the [BlueSky Statistics SoftWare](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjDjJegoL6AAxUC1AIHHey0B2MQFnoECAYQAQ&url=https%3A%2F%2Fwww.blueskystatistics.com%2F&usg=AOvVaw1hTkA70OClOGPoFm0YbgpE&opi=89978449). Definitely, with the expansion of the users of this software, there will be an increase in the number of people interested in the R programming language.
 
 # The contents of this repository
@@ -16,10 +20,9 @@ BlueSky software is a worthy alternative to SPSS, with this software you can use
 >
 > > [habib.stats9@gmail.com](mailto:habib.stats9@gmail.com)
 
-
----
 ---
 
+---
 
 # Statistical concepts
 
