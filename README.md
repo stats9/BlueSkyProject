@@ -1,12 +1,14 @@
-<h1 dir = "rtl">
+<div dir = "rtl">
+<h1>
 پروژه توسعه کاربران <bdi> BlueSky Statistics SoftWare </bdi>
 </h1>
 
-<p dir = "rtl">
-<span style = "color:blue;">
+<h2>
+<p>
 من در این پروژه قصد دارم که درباره‌ی نرم‌افزار <bdi> BlueSky Statistics </bdi>
-صحبت کنم. 
-</span>
-</p>
+صحبت کنم.
 
-<span style="color:red">some **This is Red Bold.** text</span>
+</p>
+</h2>
+
+</div>
