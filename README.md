@@ -6,7 +6,7 @@ My goal is to expand the community of users of the [BlueSky Statistics SoftWare]
 
 Now, this repository contains the links of the videos that I have recorded for the training of this software. Also, the files have been placed in order to familiarize Statistics enthusiasts with some of the statistical concepts used in this software.
 
-# Why I do this?
+# Why am I doing this?
 
 The main reason is that basically this software is implemented on the platform of R programming language and it is also free. So we can use the power of R in data analysis through this software, and of course in a much easier way. Considering that most of the country's scientific community tends towards SPSS in data analysis, the reasons for which are beyond the scope of this article, it should be noted that SPSS software is not a free software, considering that many features have been added to the new versions of SPSS software. Unfortunately, it is not available to us. Because installing new versions of SPSS requires a lot of money.
 
